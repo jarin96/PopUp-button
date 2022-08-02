@@ -1,0 +1,11 @@
+.erddap{
+    column-gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.csv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
