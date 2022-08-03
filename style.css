@@ -1,4 +1,4 @@
-.erddap{
+#erddap{
     column-gap: 40px;
     display: flex;
     align-items: center;
@@ -7,5 +7,17 @@
 .csv{
     display: flex;
     align-items: center;
+    justify-content: space-between;
+}
+#err{
+    display: flex;
+    justify-content: space-between;
+}
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+}
+.list-group-item{
+    display: flex;
     justify-content: space-between;
 }
